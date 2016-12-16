@@ -15,4 +15,6 @@ function one(){
       canvas.appendChild(circle)
       topleftclick= true
       currentPlayer= 2
-  
+    }
+  }
+}
